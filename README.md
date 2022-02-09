@@ -1,8 +1,8 @@
 <div>
   <h1 align="center">Github Widget</h1>
   <p align="center">
-    <a href="https://github.com/Zseni051/Github-Widget">
-      <img src="https://raw.githubusercontent.com/Zseni051/Github-Widget/main/ExampleWidget.png" align="center" alt="Example.png">
+    <a href="https://github.com/Zseni051">
+      <img src="https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example.png" align="center" alt="Example.png">
     </a>
   </p>
   <p align="center">
@@ -29,7 +29,7 @@ Forked from: [surbhioberoi/github-widget](https://github.com/surbhioberoi/github
 
 Copy paste this code in your HTML
 ```html
-<iframe src="https://zseni051.github.io/Github-Widget/#/username=Zseni051&toprepos=3" width="330" height="515" scrolling="no" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://zseni051.github.io/Github-Widget/#/?username=Zseni051&toprepos=3" width="330" height="515" scrolling="no" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ```
 Options:
   - `username=:username` replace `:username` with your GitHub username
