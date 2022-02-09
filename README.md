@@ -1,9 +1,5 @@
 <div>
-  <p align="center">
-    <a href="https://github.com/Zseni051">
-      <img src="https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example.png" align="center" alt="Example.png">
-    </a>
-  </p>
+  <h1 align="center">Github Widget</h1>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCsIaU94p647veKr7sy12wmA" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube">
@@ -35,3 +31,7 @@ Options:
   - `toprepos=:number` replace `:number` with number of repos you want to list | ***10 is max, Default is 3 if left blank***
   - `style=:styles` replace `:styles` with your own styles
   - `css=:csslink` replace `:csslink` with an external css link | ***Must be the last paramater***
+
+Example:
+
+ [![Zseni051 Example](https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example1.png)](https://github.com/Zseni051)
