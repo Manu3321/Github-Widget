@@ -19,8 +19,10 @@
 ## About
 
 Forked from: [surbhioberoi/github-widget](https://github.com/surbhioberoi/github-widget)
-  
+
 ## How to use
+
+### iframe:
 
 Copy paste this code in your HTML
 ```html
@@ -32,6 +34,20 @@ Options:
   - `style=:styles` replace `:styles` with your own styles
   - `css=:csslink` replace `:csslink` with an external css link | ***Must be the last paramater***
 
-Example:
+### Inline DOM manipulation:
 
+Copy paste this code in your HTML
+```html
+<div class="github-widget" data-username="github" data-toprepos="3"></div>
+<div class="github-widget" data-username="Zseni051" data-toprepos="4"></div>
+<script src="https://zseni051.github.io/Github-Widget/githubwidget.js"></script>
+```
+
+## Example:
  [![Zseni051 Example](https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example1.png)](https://github.com/Zseni051)
+ 
+ ## To Do List:
+ - [ ] Find out if this is the proper method of doing things
+ 
+ 
+
