@@ -48,6 +48,7 @@ Copy paste this code in your HTML
  
  ## To Do List:
  - [ ] Find out if this is the proper method of doing things
+ - [ ] Image version for github's README.md
  
  
 
