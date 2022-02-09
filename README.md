@@ -1,5 +1,4 @@
 <div>
-  <h1 align="center">Github Widget</h1>
   <p align="center">
     <a href="https://github.com/Zseni051">
       <img src="https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example.png" align="center" alt="Example.png">
