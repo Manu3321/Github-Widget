@@ -37,11 +37,11 @@ Copy paste this code in your HTML
 ```html
 <div class="github-widget" data-username="github" data-toprepos="3"></div>
 <div class="github-widget" data-username="Zseni051" data-toprepos="4"></div>
-<script src="https://zseni051.github.io/Github-Widget/githubwidget.js"></script>
+<script src="https://Manu3321.github.io/Github-Widget/githubwidget.js"></script>
 ```
 
 ## Example:
- [![Zseni051 Example](https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example1.png)](https://github.com/Zseni051)
+ [![Zseni051 Example](https://raw.githubusercontent.com/Manu3321/Github-Widget/main/Example1.png)](https://github.com/Zseni051)
  
  ## To Do List:
  - [ ] Find out if this is the proper method of doing things
